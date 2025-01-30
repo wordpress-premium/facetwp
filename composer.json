@@ -1,0 +1,21 @@
+{
+  "name": "wordpress-premium/facetwp",
+  "type": "wordpress-plugin",
+  "description": "FacetWP - Advanced Filtering for WordPress",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "FacetWP, LLC",
+      "email": "support@facetwp.com",
+      "homepage": "https://facetwp.com"
+    },
+    {
+      "name": "WordPress Premium",
+      "email": "info@wordpress-premium.net",
+      "homepage": "https://www.wordpress-premium.net"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  }
+}
